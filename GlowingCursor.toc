@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: Glowing Cursor
+## Notes: Displays a glowing texture at your cursor position
+## Author: Welaryn-Ragnaros-EU
+## Version: 1.0.0
+## SavedVariables: GlowingCursorDB
+
+GlowingCursor.lua
+GlowingCursor_Options.lua
